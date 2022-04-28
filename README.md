@@ -1,5 +1,5 @@
 # telegraf
-telegraf configuration.
+telegraf configuration in Raspberry environnement.
   
 # telegraf installation   
 No package in default raspbian 11.  
