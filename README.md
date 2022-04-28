@@ -1,6 +1,10 @@
 # telegraf
 telegraf configuration in Raspberry environnement.
   
+# prerequisite 
+A configured InfluxDB server, DB, user ....
+  
+  
 # telegraf installation   
 No package in default raspbian 11.  
 Workaround : https://community.influxdata.com/t/installing-error-the-repository-https-repos-influxdata-com-raspbian-bullseye-release-does-not-have-a-release-file/22979  
