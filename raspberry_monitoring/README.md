@@ -12,3 +12,6 @@ My adaptation to grafana Dashboard of https://grafana.com/grafana/dashboards/105
 # Result
 
 ![01 - Grafana dashboard RPI monitoring](./dashbard_grafana/01_rpi_monitor.JPG)
+![02 - Grafana dashboard RPI monitoring](./dashbard_grafana/02_rpi_monitor.JPG)
+![03 - Grafana dashboard RPI monitoring](./dashbard_grafana/03_rpi_monitor.JPG)
+![04 - Grafana dashboard RPI monitoring](./dashbard_grafana/04_rpi_monitor.JPG)
