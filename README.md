@@ -18,6 +18,13 @@ sudo apt update
   
 sudo apt install telegraf  
   
+##Modify telegraf configuration files
+...
+
+##Setup service
+sudo systemctl enable  telegraf.service  
+sudo systemctl start  telegraf.service
+
 ## To collect  gpu temperature
 sudo usermod -a -G video telegraf
 
